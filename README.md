@@ -292,7 +292,10 @@ div.card a {
 
 
 # OUTPUT:
-
-
+![alt text](<Screenshot 2025-10-03 203050.png>)
+![alt text](<Screenshot 2025-10-03 203132.png>)
+![alt text](<Screenshot 2025-10-03 203148.png>)
+![alt text](<Screenshot 2025-10-03 211145.png>)
+![alt text](<Screenshot 2025-10-03 211158.png>)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
